@@ -1,0 +1,70 @@
+body{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.container{
+    padding-bottom: 50px;
+}
+.banner-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cate-1, .cate-2, .cate-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cate-1{
+    background-image: linear-gradient(to bottom, #ff8008 0%, #ffc837 100%);
+}
+.cate-2{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.cate-3{
+    background-image: linear-gradient(to bottom, #00b4db 0%, #0083b0 100%);
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.contact{
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 10px;
+}
+h3{
+    font-weight: 700;
+}
+h5{
+    font-weight: 600;
+}
+h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+    color: grey;
+}
